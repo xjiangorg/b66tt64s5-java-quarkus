@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: b66tt64s5-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/b66tt64s5-java-quarkus-gitops
